@@ -120,13 +120,16 @@ This project introduces a **comprehensive benchmarking system**:
 ## Results & Benchmarking
 
 ### Model Performance (Model-Level Metrics)
-<img width="649" height="126" alt="Screenshot 2026-05-02 162525" src="https://github.com/user-attachments/assets/c7c8c34d-fa7e-41af-bd37-9ef5421b4151" />
+
+<img width="649" height="126" alt="Screenshot 2026-05-02 162525" src="https://github.com/user-attachments/assets/0f2b2fc3-3614-40b9-9554-4889833c6c4b" />
+
 
 ---
 
 ### Symbolic & Structural Evaluation
 
-<img width="547" height="172" alt="Screenshot 2026-05-02 162542" src="https://github.com/user-attachments/assets/2d0a076d-8bf9-4a96-ae83-eed7fce2543a" />
+<img width="547" height="172" alt="Screenshot 2026-05-02 162542" src="https://github.com/user-attachments/assets/1e3b9705-9a89-4765-ae78-25e0fd1825f8" />
+
 
 
 ---

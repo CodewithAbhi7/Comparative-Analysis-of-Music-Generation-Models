@@ -187,7 +187,21 @@ The paper will include:
 - Future research directions  
 
 ---
+## Dataset Attribution
 
+This project uses the Irish Folk Music Dataset (irish.abc) distributed as part of the MIT Introduction to Deep Learning course materials.
+
+Source:
+https://github.com/aamini/introtodeeplearning
+
+License:
+MIT License
+
+Copyright (c) 2023 MIT Introduction to Deep Learning
+
+The dataset is redistributed in this repository under the terms of the original MIT License.
+
+---
 ## Final Note
 
 > **Music generation is not just about accuracy — it's about structure, coherence, and musicality.**
